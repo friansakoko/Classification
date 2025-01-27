@@ -1,4 +1,4 @@
-timestamp;indeks;kecapatan_udara;suhu_ruangan;MRT;RH;clothing_wanita;clothing_pria;aktifitas;jumlah_orang;PMV_terukur;PMV_terukur_lag5;PMV_terukur_lag10;TSV
+timestamp;indeks;kecepatan_udara;suhu_ruangan;MRT;RH;clothing_wanita;clothing_pria;aktifitas;jumlah_orang;PMV_terukur;PMV_terukur_lag5;PMV_terukur_lag10;TSV;
 29/04/2024 08:00;1;0.05;24;25.5;80;0.5197;0.4983;1.1;1;-2.1;0;0;NA;
 29/04/2024 08:05;2;0.05;24.5;25;80.3;0.5197;0.4983;1.1;1;-2.1;-2.1;0;NA;
 29/04/2024 08:10;3;0.05;25;25.5;81.4;0.5197;0.4983;1.1;1;-2.1;-2.1;-2.1;NA;
